@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header" align="center">
-    <h1>Hey there, I'm Ruslan 👋</h1>
+    <h1>Hey there, I'm Daniil 👋</h1>
     <h3>Frontend Developer & UI/UX Designer from Moscow</h3>
     <a href="https://t.me/kydryashka_2608">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
