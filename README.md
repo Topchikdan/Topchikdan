@@ -11,13 +11,15 @@
 
 ---
 
-## 🏆 Профессиональные достижения
+## 🏆 Немного о достижениях
 
-> Путь специалиста — это постоянное развитие. Главные победы ещё впереди.
+> Пока звёзд с неба не хватал — всё впереди 🚀
 
 ---
 
-## 💻 Владение языками программирования
+## 💻 Технологии, которые я использую
+
+### 📄 Языки разметки и программирования
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,16 +30,15 @@
 
 ---
 
-## 🧰 Технологии и инструменты
+## 🧰 Любимые инструменты и стек
 
-### UI/UX и Frontend
+### 🎨 Frontend & UI/UX
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### DevOps и Инфраструктура
+### ⚙️ Инфраструктура и DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
