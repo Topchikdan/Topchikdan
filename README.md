@@ -36,10 +36,3 @@
 ### ⚙️ **Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ober0&layout=compact&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ober0&theme=dark&hide_border=true)
