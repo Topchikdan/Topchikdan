@@ -1,25 +1,23 @@
 <div align="center">
 
-  <h1>Привет! Я Даниил 👋</h1>
-  <h3>Frontend-разработчик и UI/UX-дизайнер из Москвы</h3>
+  <h1>Здравствуйте, меня зовут Даниил</h1>
+  <h3>Frontend-разработчик и UI/UX-дизайнер, Москва</h3>
 
   <a href="https://t.me/kydryashka_2608">
-    <img src="https://img.shields.io/badge/Связаться в Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+    <img src="https://img.shields.io/badge/Telegram-связь-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
 
 </div>
 
 ---
 
-## 🏆 Немного о достижениях
+## 🏆 Профессиональные достижения
 
-> Пока звёзд с неба не хватал — всё впереди 🚀
+> Путь специалиста — это постоянное развитие. Главные победы ещё впереди.
 
 ---
 
-## 💻 Технологии, которые я использую
-
-### 📄 Языки разметки и программирования
+## 💻 Владение языками программирования
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,15 +28,15 @@
 
 ---
 
-## 🧰 Любимые инструменты и стек
+## 🧰 Технологии и инструменты
 
-### 🎨 Frontend & UI/UX
+### UI/UX и Frontend
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Инфраструктура и DevOps
+### DevOps и Инфраструктура
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
