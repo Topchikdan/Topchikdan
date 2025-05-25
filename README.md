@@ -40,3 +40,17 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Обучение и сертификация
+
+> Я постоянно прокачиваю свои навыки и подтверждаю их на практике. Прошел ряд курсов, охватывающих ключевые технологии из моего стека.
+
+<div align="center">
+
+  <a href="https://www.codecademy.com/profiles/net8182552869">
+    <img src="https://img.shields.io/badge/Codecademy-Обучение-1f2434?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Badge">
+  </a>
+
+</div>
